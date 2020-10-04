@@ -132,7 +132,7 @@
     left: 567px;
 }
 
-.ds4 .button {
+.ds4.white.button {
     position: absolute;
     width: 55px;
     height: 55px;
@@ -174,7 +174,7 @@
     left: 228px;
 }
 
-.ds4 .stick {
+.ds4.white.stick {
     position: absolute;
     background-image: url(https://crossfx123.github.io/controller/sticksright.svg);
     height: 94px;
@@ -207,7 +207,7 @@
     left: 92px;
 }
 
-.ds4 .white .face {
+.ds4 .white.face {
     background-image: url(https://crossfx123.github.io/controller/dpad.svg);
     position: absolute;
 }

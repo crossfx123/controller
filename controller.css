@@ -1,6 +1,6 @@
-.ds4.white .face {
-	background: url('https://crossfx123.github.io/controller/base.svgz');
-    filter: grayscale() brightness(10);
+.ds4 .face {
+    background: url(ps4-assets/dpad.svgz);
+    position: absolute;
 }
 .ds4.white .face.pressed {
     filter: none;

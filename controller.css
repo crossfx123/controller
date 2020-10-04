@@ -1,5 +1,5 @@
 /*BEGIN PS4 Controller Styling*/
-.controller.ds4.white {
+.controller.ds4.white{
 	background-image: url(https://crossfx123.github.io/controller/base.svg);
     height: 598px;
     width: 806px;
@@ -22,11 +22,18 @@
     left: 109px;
 }
 
-.ds4 .trigger {
+.ds4 .trigger.left {
     width: 99px;
     height: 100%;
     background-image: url(https://gamepadviewer.com/ps4-assets/triggers.svgz);
-    opacity: 0;
+    
+}
+
+.ds4 .trigger.right {
+    width: 99px;
+    height: 100%;
+    background-image: url(https://gamepadviewer.com/ps4-assets/triggers.svgz);
+    
 }
 
 .ds4 .trigger.left {
@@ -54,7 +61,7 @@
 }
 
 .ds4 .bumper.pressed {
-    opacity: 1;
+    background-image: url(https://gamepadviewer.com/ps4-assets/bumper.svgz)
 }
 
 .ds4 .bumper.left {
@@ -166,15 +173,14 @@
     left: 58px;
 }
 
-.ds4 .sticks {
+.ds4 .stick.left {
     position: absolute;
-    width: 361px;
-    height: 105px;
-    top: 308px;
-    left: 228px;
+    background-image: url(https://crossfx123.github.io/controller/sticksleft.svg);
+    width: 94px;
+    height: 94px;
 }
 
-.ds4.white.stick {
+.ds4 .stick.right {
     position: absolute;
     background-image: url(https://crossfx123.github.io/controller/sticksright.svg);
     height: 94px;
@@ -207,8 +213,8 @@
     left: 92px;
 }
 
-.ds4 .white.face {
-    background-image: url(https://crossfx123.github.io/controller/dpad.svg);
+.ds4 .dpad.white {
+    background: url(https://crossfx123.github.io/controller/dpad.svg);
     position: absolute;
 }
 

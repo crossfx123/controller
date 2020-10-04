@@ -83,8 +83,8 @@
     top: 122px;
 }
 
-.ds4 .touchpad.pressed {
-    background-image: url(https://gamepadviewer.com/ps4-assets/touchpad.svgz) no-repeat center;
+.ds4.white .touchpad.pressed {
+    background: url(https://gamepadviewer.com/ps4-assets/touchpad.svgz) no-repeat center;
 }
 
 .ds4 .meta {
@@ -117,7 +117,7 @@
 .ds4 .back.pressed, .ds4 .start.pressed {
     /* background-position-y: -21px; */
     /* margin-top: 2px; */
-    opacity: 1;
+    background-image: url(https://gamepadviewer.com/ps4-assets/start.svgz)
 }
 
 .ds4 .back {
@@ -205,7 +205,12 @@
     left: calc(100% - 105px);
 }
 
-.ds4 .dpad {
+.ds4.white .face {
+    background-image: url(https://crossfx123.github.io/controller/dpad.svg);
+}
+
+.ds4 .dpad.white {
+    background: url(https://crossfx123.github.io/controller/dpad.svg);
     position: absolute;
     width: 125px;
     height: 126px;

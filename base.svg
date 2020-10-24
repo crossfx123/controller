@@ -21,7 +21,7 @@
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
    id="metadata912"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs910">
 	
 </defs><sodipodi:namedview
@@ -33,13 +33,13 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="2560"
+   inkscape:window-height="1377"
    id="namedview908"
    showgrid="false"
-   inkscape:zoom="1.292804"
-   inkscape:cx="325.2538"
-   inkscape:cy="346.46105"
+   inkscape:zoom="1.1098253"
+   inkscape:cx="333.02472"
+   inkscape:cy="394.4822"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -221,7 +221,7 @@
    fill="#0d0e13"
    d="m 898.3,515.7 c -2.9,-15.5 -17.7,-102.5 -32,-144.6 -9.4,-27.7 -13.1,-53 -17,-64.9 -12,-35.7 -33,-65.7 -33,-65.7 0,0 -9.5,-13.1 -10.1,-16.3 -0.6,-3.3 -4.7,-8.6 -4.7,-8.6 0,0 -17.4,-5.7 -62.3,-5.7 -44.9,0 -53.7,5 -53.7,5 0,0 -2.4,2.9 -5.9,4.8 -3.5,1.8 -11.7,1.7 -11.7,1.7 h -33.4 c 0,0 -0.6,-0.1 -0.9,0.3 -0.4,0.4 -0.6,2 -0.6,2 H 500 366.9 c 0,0 -0.3,-1.7 -0.6,-2 -0.4,-0.4 -0.9,-0.3 -0.9,-0.3 H 332 c 0,0 -8.2,0.2 -11.7,-1.7 -3.5,-1.8 -5.9,-4.8 -5.9,-4.8 0,0 -8.8,-5 -53.7,-5 -44.8,0 -62.3,5.7 -62.3,5.7 0,0 -4.1,5.3 -4.7,8.6 -0.6,3.3 -10.1,16.3 -10.1,16.3 0,0 -21,30 -33,65.7 -4,11.9 -7.7,37.2 -17,64.9 -14.3,42.1 -29.1,129.1 -32,144.6 -4.3,23.2 -4.6,90.2 -4.6,90.2 0,0 4.5,53.4 36.2,74.9 31.7,21.5 56.7,14 56.7,14 0,0 33.1,-8.2 57.8,-41.9 24.7,-33.7 56.6,-129.2 56.6,-129.2 0,0 2.2,-3 5.7,-5.3 3.5,-2.3 6.3,-2.6 6.3,-2.6 l 183.7,0.1 183.7,-0.1 c 0,0 2.8,0.3 6.3,2.6 3.5,2.3 5.7,5.3 5.7,5.3 0,0 31.9,95.4 56.6,129.2 24.7,33.8 57.8,41.9 57.8,41.9 0,0 25,7.5 56.7,-14 31.7,-21.5 36.2,-74.9 36.2,-74.9 0,0 -0.3,-67 -4.7,-90.2 z"
    id="path590"
-   style="fill:#c83737" />
+   style="fill:#f0f0f0;fill-opacity:1" />
 			<g
    opacity="0.06"
    id="g594">
@@ -234,39 +234,39 @@
    fill="#13161f"
    d="m 448.2,457.1 c 0,-42.2 -34.3,-76.5 -76.5,-76.5 -42.2,0 -76.5,34.3 -76.5,76.5 0,0.7 0,1.3 0.1,2 0,0.7 -0.1,1.3 -0.1,2 0,42.2 34.3,76.5 76.5,76.5 42.2,0 76.5,-34.3 76.5,-76.5 0,-0.7 0,-1.3 -0.1,-2 0,-0.7 0.1,-1.4 0.1,-2 z"
    id="path596"
-   style="fill:#a02c2c" />
+   style="fill:#e6e6e6;fill-opacity:1" />
 			<circle
    fill="#0f1015"
    cx="371.70001"
    cy="453.10001"
    r="73"
    id="circle598"
-   style="fill:#c83737" />
+   style="fill:#ffffff;fill-opacity:1" />
 			<circle
    cx="371.70001"
    cy="453.10001"
    r="51.5"
    id="circle600"
-   style="fill:#e9afaf" />
+   style="fill:#000000;fill-opacity:0.23293173" />
 			<path
    fill="#13161f"
    d="m 704.8,457.1 c 0,-42.2 -34.3,-76.5 -76.5,-76.5 -42.2,0 -76.5,34.3 -76.5,76.5 0,0.7 0,1.3 0.1,2 0,0.7 -0.1,1.3 -0.1,2 0,42.2 34.3,76.5 76.5,76.5 16.59688,0 31.97181,-5.30545 44.51878,-14.31035 C 692.17432,509.39828 704.8,486.70312 704.8,461.1 c 0,-0.7 0,-1.3 -0.1,-2 0.1,-0.7 0.1,-1.4 0.1,-2 z"
    id="path602"
    sodipodi:nodetypes="ssscsssscs"
-   style="fill:#a02c2c" />
+   style="fill:#e6e6e6;fill-opacity:1" />
 			<circle
    fill="#0f1015"
    cx="628.29999"
    cy="453.10001"
    r="73"
    id="circle604"
-   style="fill:#c83737" />
+   style="fill:#ffffff;fill-opacity:1" />
 			<circle
    cx="628.29999"
    cy="453.10001"
    r="51.5"
    id="circle606"
-   style="fill:#e9afaf" />
+   style="fill:#000000;fill-opacity:0.24497992" />
 			<path
    fill="#121212"
    d="m 631.8,225.1 c -0.4,-3.2 -3.3,-5.6 -6.5,-5.6 v 0 H 500 v 0 H 374.7 v 0 c -3.2,0 -6.1,2.3 -6.5,5.6 -0.1,0.7 -0.1,1.4 -0.1,2.1 v 127.4 c 0,8.9 7.2,16.1 16.1,16.1 H 500 v 0 h 115.8 c 8.9,0 16.1,-7.2 16.1,-16.1 V 227.2 c 0.1,-0.7 0,-1.4 -0.1,-2.1 z"
@@ -277,7 +277,7 @@
    cy="341.89999"
    r="94.300003"
    id="circle610"
-   style="fill:#a02c2c;stroke:#ffffff;stroke-opacity:0.35742968" />
+   style="fill:#ffffff;stroke:#ffffff;stroke-opacity:0.35742968;fill-opacity:1" />
 			<g
    id="g622">
 				<circle
@@ -286,27 +286,27 @@
    cy="341.89999"
    r="94.300003"
    id="circle612"
-   style="fill:#a02c2c;stroke:#ffffff;stroke-opacity:0.36144578;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;opacity:1;fill-opacity:1" />
+   style="fill:#fffff9;stroke:#ffffff;stroke-opacity:0.36144578;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;opacity:1;fill-opacity:1" />
 				<path
    fill="#1f1f1f"
    d="m 327.4,351.2 9.5,-8.9 c 0.5,-0.5 0.5,-1.2 0,-1.7 l -9.5,-8.9 c -0.7,-0.7 -1.9,-0.2 -1.9,0.8 v 8.9 8.9 c -0.1,1 1.1,1.5 1.9,0.9 z"
    id="path614"
-   style="fill:#ff5555" />
+   style="fill:#000000;fill-opacity:0.50200802" />
 				<path
    fill="#1f1f1f"
    d="m 242,266.9 h 8.9 8.9 c 1,0 1.5,-1.2 0.8,-1.9 l -8.9,-9.5 c -0.5,-0.5 -1.2,-0.5 -1.7,0 l -8.9,9.5 c -0.6,0.7 -0.1,1.9 0.9,1.9 z"
    id="path616"
-   style="fill:#ff5555" />
+   style="fill:#000000;fill-opacity:0.5" />
 				<path
    fill="#1f1f1f"
    d="m 174.5,331.7 -9.5,8.9 c -0.5,0.5 -0.5,1.2 0,1.7 l 9.5,8.9 c 0.7,0.7 1.9,0.2 1.9,-0.8 v -8.9 -8.9 c 0,-1.1 -1.2,-1.6 -1.9,-0.9 z"
    id="path618"
-   style="fill:#ff8080" />
+   style="fill:#000000;fill-opacity:0.5" />
 				<path
    fill="#1f1f1f"
    d="m 259.8,415.9 h -8.9 -8.9 c -1,0 -1.5,1.2 -0.8,1.9 l 8.9,9.5 c 0.5,0.5 1.2,0.5 1.7,0 l 8.9,-9.5 c 0.6,-0.7 0.1,-1.9 -0.9,-1.9 z"
    id="path620"
-   style="fill:#ff5555" />
+   style="fill:#000000;fill-opacity:0.5" />
 			</g>
 		</g>
 	</g>
@@ -320,7 +320,7 @@
    enable-background="new    "
    d="m 202.2,641.7 c -40.5,-2.8 -75.8,-20.3 -87.3,-30.5 -11.5,-10.3 -17.5,-31.6 -17.5,-31.6 -0.4,15 -0.4,26.3 -0.4,26.3 0,0 4.5,53.4 36.2,74.9 31.7,21.5 56.7,14 56.7,14 0,0 33.1,-8.2 57.8,-41.9 4.5,-6.2 9.3,-14.5 14.1,-23.8 -0.1,0 -19.2,15.3 -59.6,12.6 z"
    id="path630"
-   style="opacity:1;fill:#ffffff;fill-opacity:1" />
+   style="opacity:1;fill:#000000;fill-opacity:1" />
 		
 			<pattern
    id="SVGID_4_"
@@ -342,7 +342,7 @@
    enable-background="new    "
    d="M797.8,641.6c40.5-2.8,75.8-20.3,87.3-30.5    s17.5-31.5,17.5-31.5c0.4,15,0.4,26.3,0.4,26.3s-4.5,53.4-36.2,74.9s-56.7,14-56.7,14s-33.1-8.2-57.8-41.9    c-4.5-6.2-9.3-14.5-14.1-23.8C738.3,629,757.4,644.3,797.8,641.6z"
    id="path639"
-   style="opacity:1;fill:#ffffff;fill-opacity:0.98393571" />
+   style="opacity:1;fill:#000000;fill-opacity:1" />
 		
 			<pattern
    id="SVGID_5_"
